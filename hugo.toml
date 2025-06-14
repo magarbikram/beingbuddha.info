@@ -1,0 +1,41 @@
+baseURL = "https://beingbuddha.info/"
+title = "Being Buddha"
+theme = "ananke"
+defaultContentLanguage = "np"
+languageCode = "np"
+enableRobotsTXT = true
+
+[languages]
+
+  [languages.np]
+    languageName = "नेपाली"
+    weight = 1
+    contentDir = "content/np"
+    title = "Being Buddha"
+    [languages.np.params]
+      description = "बुद्ध बन्ने यात्रा सुरु गरौं"
+    
+    [[languages.np.menu.main]]
+      name = "यो वेबसाइट किन?"
+      pageRef = "yo-website-kina"
+      weight = 1
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    title = "Being Buddha"
+    [languages.en.params]
+      description = "A practical guide to becoming a Buddha"
+
+    [[languages.en.menu.main]]
+      name = "Why This Site Exists"
+      pageRef = "why-this-site-exists"
+      weight = 1
+
+[params]
+  themeColor = "blue"         # or "emerald", "rose", etc.
+  defaultDark = false         # set to true for dark mode if you prefer
+  homepageLayout = "page"
+  mainSections = ["posts"]
+  dateFormat = "2006-01-02"

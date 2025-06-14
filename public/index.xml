@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>बुद्ध बन्ने यात्रा on Being Buddha</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in बुद्ध बन्ने यात्रा on Being Buddha</description>
+    <generator>Hugo</generator>
+    <language>np</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>यो वेबसाइट किन?</title>
+      <link>http://localhost:1313/why-this-site-exists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/why-this-site-exists/</guid>
+      <description>&lt;h2 id=&#34;-य-वबसइट-कन&#34;&gt;🌱 यो वेबसाइट किन?&lt;/h2&gt;&#xA;&lt;p&gt;मैले यो यात्रा धार्मिक बन्नको लागि सुरु गरेको होइन।&lt;br&gt;&#xA;मैले बुद्धको मार्ग सिक्न थालेँ किनभने म संघर्षमा थिएँ—&lt;strong&gt;रिस&lt;/strong&gt;, &lt;strong&gt;भावनात्मक थकान&lt;/strong&gt;, र &lt;strong&gt;काम र परिवारको चापले ल्याएको मानसिक दबाव&lt;/strong&gt;सँग।&lt;/p&gt;&#xA;&lt;p&gt;हामीले केही समयअघि &lt;strong&gt;नयाँ बच्चा स्वागत गरेका छौँ&lt;/strong&gt;। जेठो छोराको साथमा अब हामी दुई सन्तानका अभिभावक भएका छौँ।&lt;br&gt;&#xA;यसले हामीलाई धेरै माया दिएको छ—र साथै, गहिरो जिम्मेवारी, थकान, र भावनात्मक गहनता पनि।&lt;/p&gt;&#xA;&lt;p&gt;कामको तनाव मेरो प्रमुख चिन्ताको कारण थियो।&lt;br&gt;&#xA;मैले एक कम्पनीमा &lt;strong&gt;लीड सफ्टवेयर डेभलपर&lt;/strong&gt;को रूपमा काम गरिरहेको छु। हामीले काम गरिरहेको परियोजना राम्रोसँग अघि बढिरहेको थिएन।&lt;br&gt;&#xA;त्यसपछि मैले &lt;strong&gt;एजाइल सफ्टवेयर विकास&lt;/strong&gt; गहिरो रूपमा सिक्न थालेँ—एजाइल म्यानिफेस्टो र Kent Beck, Martin Fowler, Robert C. Martin जस्ता विज्ञहरूको पुस्तकहरू पढेँ।&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

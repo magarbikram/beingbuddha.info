@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Being Buddha</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on Being Buddha</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why This Site Exists</title>
+      <link>http://localhost:1313/en/why-this-site-exists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/why-this-site-exists/</guid>
+      <description>&lt;h2 id=&#34;-why-this-site-exists&#34;&gt;🌱 Why This Site Exists&lt;/h2&gt;&#xA;&lt;p&gt;I didn’t begin this journey to become religious.&lt;br&gt;&#xA;I started learning the path of the Buddha because I was struggling—with &lt;strong&gt;anger&lt;/strong&gt;, with &lt;strong&gt;emotional exhaustion&lt;/strong&gt;, and with the quiet but overwhelming pressure of work and family life.&lt;/p&gt;&#xA;&lt;p&gt;We recently &lt;strong&gt;welcomed a new baby&lt;/strong&gt; into our family. Alongside raising our older son, this brought us great love—and also great responsibility, fatigue, and emotional intensity.&lt;/p&gt;&#xA;&lt;p&gt;Work pressure was one of the main stressors.&lt;br&gt;&#xA;I work as a &lt;strong&gt;Lead Software Developer&lt;/strong&gt; at a company, and the project we were on was not going well.&lt;br&gt;&#xA;So I began studying &lt;strong&gt;Agile software development&lt;/strong&gt; deeply—reading the Agile Manifesto, and books from Kent Beck, Martin Fowler, Robert C. Martin.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
